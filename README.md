@@ -4,8 +4,10 @@ Projet de TIPE (Travail d'Initiative Personnelle Encadré) sur l'irréversibilit
 
 En effet, j'ai pu faire une simulation de diffusion particulaire (particule par particule aléatoirement) et les résultats étaient comme suit:
 
-* L'irréversibilité n'est vraie que si le nombre de particules est assez grand et le nombre de simulation est supérieur à ~10x le nombre de particules ( Loi des grands nombres)
+* L'irréversibilité n'est vraie que si le nombre de particules est assez grand ( Loi des grands nombres).
 
-* 
+* Le temps de convergence empirique se situe vers 2 fois le nombre de particules.
+
+* L'entropie statistique diminue à fur et à mesure que le processus converge vers l'équilibre.
 
 Projet préalablement (Juin 2015) fait sur Matlab
